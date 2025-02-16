@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zadpay/static/css/main.a552c3b8.css",
+    "main.js": "/Zadpay/static/js/main.028ba199.js",
+    "index.html": "/Zadpay/index.html",
+    "main.a552c3b8.css.map": "/Zadpay/static/css/main.a552c3b8.css.map",
+    "main.028ba199.js.map": "/Zadpay/static/js/main.028ba199.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a552c3b8.css",
+    "static/js/main.028ba199.js"
+  ]
+}
